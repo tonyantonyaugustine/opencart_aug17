@@ -1,0 +1,500 @@
+00:19:33.801 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+00:19:34.280 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+00:19:34.383 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+00:19:34.500 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+00:19:34.595 [AsyncHttpClient-1-7] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+00:24:18.071 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+00:24:18.241 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+00:24:18.310 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+00:24:18.314 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+00:24:18.455 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+00:24:18.510 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+00:24:19.243 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+00:24:19.378 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+00:24:19.590 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+00:24:19.721 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+00:24:19.879 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+00:24:19.946 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+00:24:20.206 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+00:24:20.218 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+00:24:20.390 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+00:24:20.392 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+00:24:20.458 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+00:24:20.521 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+00:24:20.526 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+00:24:20.592 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+01:41:39.014 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:41:39.547 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:41:39.832 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:41:39.881 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:41:39.886 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:41:40.112 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:41:40.756 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+01:41:41.139 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+01:41:41.163 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+01:41:41.283 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+01:41:41.396 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+01:41:41.547 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+01:41:41.576 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+01:41:41.703 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+01:41:41.786 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+01:41:41.830 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+01:41:41.864 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+01:41:42.099 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+01:41:42.175 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+01:41:42.228 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+01:52:19.214 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:52:19.262 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:52:19.498 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:52:19.981 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+01:52:20.171 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+01:52:20.299 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+01:52:20.418 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+01:52:20.515 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+01:52:20.548 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+01:52:20.595 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+00:48:26.625 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+00:48:26.811 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+00:48:26.939 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+00:48:27.462 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+00:48:27.675 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+00:48:27.789 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+00:48:27.905 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+00:48:28.001 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+00:48:28.030 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+00:48:28.071 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+00:50:24.484 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+00:50:24.480 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+00:50:24.647 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+00:50:24.648 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+00:50:24.820 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+00:50:24.861 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+00:50:25.709 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+00:50:25.900 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+00:50:26.051 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+00:50:26.213 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+00:50:26.276 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+00:50:26.428 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+00:50:26.473 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+00:50:26.630 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+00:50:26.650 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+00:50:26.701 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+00:50:26.783 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+00:50:26.812 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+00:50:26.872 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+00:50:26.988 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+00:58:00.442 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+00:58:00.523 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+00:58:00.702 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+00:58:00.708 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+00:58:01.061 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+00:58:01.374 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+00:58:02.729 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+00:58:03.448 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+00:58:03.822 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+00:58:04.136 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+00:58:04.429 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+00:58:04.656 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+00:58:04.910 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+00:58:05.167 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+00:58:05.184 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+00:58:05.320 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+00:58:05.858 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+00:58:06.120 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+00:58:06.206 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+00:58:06.291 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+01:07:29.475 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:07:29.698 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:07:29.758 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:07:29.761 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:07:30.765 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:07:30.965 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:07:33.221 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+01:07:33.221 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+01:07:34.272 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+01:07:34.386 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+01:07:34.891 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+01:07:34.952 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+01:07:35.328 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+01:07:35.411 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+01:07:35.534 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+01:07:35.646 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+01:07:35.730 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+01:07:35.993 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+01:07:36.722 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+01:07:36.788 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+01:10:29.483 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:10:29.630 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:10:29.958 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:10:29.968 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:10:30.075 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:10:30.246 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:10:47.561 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:10:47.610 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:10:47.706 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:10:47.723 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:10:47.882 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:10:47.978 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:12:14.597 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:12:14.689 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:12:14.768 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:12:14.772 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:12:14.899 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:12:14.978 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:12:15.713 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+01:12:15.860 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+01:12:16.042 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+01:12:16.191 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+01:12:16.230 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+01:12:16.369 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+01:12:16.425 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+01:12:16.584 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+01:12:16.594 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+01:12:16.645 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+01:12:16.646 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+01:12:16.769 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+01:12:16.936 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+01:12:16.936 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+01:14:35.257 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:14:35.349 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:14:35.601 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:14:35.744 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:14:35.752 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:14:35.962 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:14:36.381 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+01:14:36.649 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+01:14:36.839 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+01:14:36.976 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+01:14:37.105 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+01:14:37.261 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+01:14:37.278 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+01:14:37.629 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+01:14:37.854 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+01:14:38.003 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+01:17:17.073 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:17:17.073 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:17:17.149 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:17:17.150 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:17:17.640 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:17:17.752 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:47:49.517 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:47:49.519 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:47:49.561 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:47:49.561 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:47:49.757 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:47:49.829 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:49:02.711 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:49:02.760 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:49:02.937 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:49:04.207 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+01:49:04.652 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+01:49:04.793 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+01:49:04.908 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+01:49:04.998 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+01:49:05.027 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+01:49:05.061 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+01:50:42.339 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:50:42.457 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:50:43.793 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:50:43.796 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:50:43.971 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:50:44.077 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:51:38.803 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:51:38.804 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:51:38.917 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:51:38.917 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:51:39.209 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:51:39.304 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:53:18.512 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:53:18.563 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:53:18.880 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:53:19.418 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+01:53:19.614 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+01:53:19.717 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+01:53:19.843 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+01:53:19.948 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+01:53:19.981 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+01:53:20.016 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+01:53:46.764 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:53:46.817 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:53:46.962 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:53:47.467 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+01:53:47.667 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+01:53:47.784 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+01:53:47.941 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+01:53:48.065 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+01:53:48.120 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+01:53:48.172 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+01:55:19.355 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:55:19.427 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:55:19.577 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:55:20.424 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+01:55:20.715 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+01:55:20.876 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+01:55:21.043 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+01:55:21.265 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+01:55:21.355 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+01:55:21.478 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+01:59:26.758 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:59:26.854 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:59:27.385 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:59:28.314 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+01:59:29.109 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+01:59:29.267 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+01:59:29.272 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+01:59:29.499 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+01:59:29.585 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+01:59:29.717 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+01:59:29.846 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+01:59:29.879 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+01:59:29.954 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+01:59:30.251 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+01:59:30.555 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+01:59:30.899 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+01:59:31.169 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+01:59:31.413 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+01:59:31.531 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+01:59:31.650 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+02:00:07.895 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:00:07.985 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:00:08.929 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:00:08.936 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:00:09.166 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:00:09.289 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:00:58.070 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:00:58.100 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:00:58.255 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:00:58.764 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+02:00:58.959 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+02:00:59.089 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+02:00:59.205 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+02:00:59.298 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+02:00:59.330 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+02:00:59.360 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+02:03:19.000 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:03:19.115 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:03:19.367 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:03:19.957 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+02:03:20.185 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+02:03:20.317 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+02:03:20.428 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+02:03:20.520 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+02:03:20.552 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+02:03:20.590 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+02:03:34.129 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:03:34.196 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:03:34.392 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:05:22.667 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:05:22.800 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:05:22.937 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:05:23.586 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+02:05:23.766 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+02:05:23.908 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+02:05:24.027 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+02:05:24.124 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+02:05:24.156 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+02:05:24.180 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+02:07:38.903 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:07:38.960 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:07:40.488 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:07:40.494 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:07:40.732 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:07:40.866 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:07:56.975 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+02:08:18.668 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:08:18.709 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:08:18.987 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:08:19.482 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+02:08:19.691 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+02:08:19.817 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+02:08:19.936 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+02:08:20.023 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+02:08:20.059 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+02:08:20.093 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+02:09:13.658 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:09:13.696 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:09:13.841 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:09:14.331 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+02:09:14.499 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+02:09:14.670 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+02:09:14.791 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+02:09:14.879 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+02:09:14.915 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+02:09:14.949 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+02:09:32.901 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:09:33.025 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:09:33.221 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:09:33.769 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+02:09:34.032 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+02:09:34.176 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+02:09:34.356 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+02:09:34.487 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+02:09:34.535 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+02:09:34.585 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+02:09:56.745 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:09:56.745 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:09:56.796 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:09:56.803 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:09:56.958 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:09:57.035 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:11:16.444 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:11:16.494 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:11:16.670 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:11:17.167 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+02:11:17.369 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+02:11:17.509 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+02:11:17.625 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+02:11:17.718 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+02:11:17.752 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+02:11:17.785 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+02:11:38.657 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:11:38.701 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:11:38.942 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:11:39.525 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+02:11:39.718 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+02:11:39.822 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+02:11:39.951 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+02:11:40.058 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+02:11:40.094 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+02:11:40.127 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+02:13:09.615 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:13:09.615 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:13:09.720 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:13:09.763 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:13:10.010 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:13:10.102 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:16:05.951 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:16:06.035 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:16:07.740 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:16:07.750 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:16:08.199 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:16:08.384 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:17:29.761 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:17:30.165 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:17:30.358 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:17:30.853 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+02:17:31.033 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+02:17:31.166 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+02:17:31.311 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+02:17:31.483 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+02:17:31.519 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+02:17:31.548 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+02:18:51.396 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:18:51.396 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:18:51.443 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:18:51.454 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:18:51.746 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:18:51.842 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:19:33.857 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:19:33.897 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:19:34.053 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:19:34.530 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+02:19:34.755 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+02:19:34.891 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+02:19:35.028 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+02:19:35.158 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+02:19:35.205 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+02:19:35.255 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+02:20:59.409 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:20:59.517 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:20:59.892 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:21:02.264 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+02:21:03.013 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:21:03.024 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:21:03.113 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+02:21:03.312 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:21:03.407 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+02:21:03.613 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+02:21:03.843 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+02:21:03.915 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+02:21:03.995 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+02:21:04.151 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+02:21:04.543 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+02:22:07.776 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:22:07.776 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:22:07.829 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:22:07.829 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:22:07.974 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:22:08.042 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:29:05.703 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:29:05.741 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:29:05.929 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:29:06.419 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+02:29:06.614 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+02:29:06.752 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+02:29:06.867 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+02:29:06.961 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+02:29:07.002 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+02:29:07.036 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+02:30:10.792 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:30:10.856 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:30:12.185 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+02:30:12.193 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+02:30:12.503 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+02:30:12.586 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+21:32:08.690 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+21:32:08.682 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+21:32:08.780 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+21:32:08.782 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+21:32:09.197 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+21:32:09.260 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+21:32:17.825 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+21:33:09.473 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+21:33:09.511 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+21:33:09.739 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+21:33:10.258 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+21:33:10.517 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+21:33:10.642 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+21:33:10.762 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+21:33:10.865 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+21:33:10.916 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+21:33:10.958 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+21:33:40.691 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+21:33:40.780 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+21:33:40.927 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+21:33:41.641 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+21:33:41.812 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+21:33:41.956 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+21:33:42.096 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+21:33:42.201 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+21:33:42.234 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+21:33:42.268 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+21:36:15.018 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+21:36:15.077 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+21:36:52.226 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+21:36:52.226 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+21:36:52.371 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+21:36:52.381 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+21:36:52.619 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+21:36:52.720 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+21:37:12.661 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+21:37:38.979 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+21:37:39.082 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+21:37:40.483 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+21:37:40.485 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+21:37:40.719 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+21:37:40.853 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+21:39:48.139 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+21:39:48.218 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+21:39:48.572 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+21:39:49.044 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+21:39:49.414 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+21:39:49.556 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+21:39:49.694 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+21:39:49.790 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+21:39:49.826 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+21:39:49.864 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+21:39:56.033 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+21:39:56.035 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+21:39:56.322 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register
+21:39:57.222 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting FirstName
+21:39:57.420 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting LastName
+21:39:57.574 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Email
+21:39:57.749 [main] INFO  testCases.TC_001_AccountRegistrationTest - Setting Password
+21:39:57.891 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Subscribe
+21:39:57.932 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Agree
+21:39:58.008 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicking on Continue
+21:46:08.842 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+21:46:08.842 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Starting Account Registration Test*************
+21:46:08.908 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
+21:46:08.911 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount
